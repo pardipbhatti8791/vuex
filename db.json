@@ -71,6 +71,36 @@
           "name": "Mary Gordon"
         }
       ]
+    },
+    {
+      "id": 3616914,
+      "user": {
+        "id": 1,
+        "name": "gugu"
+      },
+      "category": "education",
+      "organizer": "",
+      "title": "test",
+      "description": "sesdsfdsf sdfds",
+      "location": "mohali",
+      "date": "2020-09-02T08:54:00.000Z",
+      "time": "3:00",
+      "attendees": []
+    },
+    {
+      "id": 8131278,
+      "user": {
+        "id": 1,
+        "name": "gugu"
+      },
+      "category": "animal welfare",
+      "organizer": "",
+      "title": "dogs",
+      "description": "dogs are awesome",
+      "location": "mohali",
+      "date": "2020-09-08T08:58:00.000Z",
+      "time": "5:00",
+      "attendees": []
     }
   ]
 }
